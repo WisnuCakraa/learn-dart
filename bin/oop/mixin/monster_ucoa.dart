@@ -1,3 +1,4 @@
+import 'drink_ability_mixin.dart';
 import 'monster_ubur.dart';
 import 'flying_monster.dart';
 
